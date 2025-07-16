@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Ronald Christopher Siddall
 
 🎓 I am currently pursuing a Master's degree in **Applied Sciences in Engineering**,  
-specializing in **Computer Simulations in Physics and Engineering**.
+specializing in **Computer Simulations in Physics and Engineering** at the Technical university in Liberec.
 
 ---
 
-## My Key Projects
+## My Finished Projects
 
 ### Homogenization-Rock-Mechanics-Thesis  
 Bachelor's thesis project focused on numerical homogenization of mechanical properties of fractured rock.
@@ -28,13 +28,9 @@ A data-driven project predicting ELO ratings and analyzing table tennis matches 
 
 ---
 
-## 📈 GitHub Stats
 
-![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonaldSiddall&show_icons=true&theme=github_dark)
+## Contact 
+Bc. Ronald Christopher Siddall
 
----
+ronald.christopher.siddall@tul.cz, ron.siddall@post.cz   
 
-## 📬 Contact Me
-👨‍🔬 Bc. Ronald Christopher Siddall 
-📧 ronald.christopher.siddall@tul.cz or ron.siddall@post.cz   
-📍 Czech Republic
